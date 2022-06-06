@@ -91,10 +91,16 @@
     font-size: 5vw;
     line-height: 120%;
     margin-bottom: 2.3vw;
+    position: relative;
+}
+.header__o {
+    position: absolute;
+    left: 2.4vw;
+    top: 6.4vw;
+    width: 6vw;
 }
 .header__text {
 }
-
 .main {
 }
 .tasks {
